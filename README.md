@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Your Name! 👋
 
-<!--
-**fidelhadrian/fidelhadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in [Your Interests]. I love to explore new technologies and build amazing things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Umbreon is my favorite pokemon.
--->
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fidelhadrian&show_icons=true&hide=contribs,prs&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelhadrian&layout=compact&theme=radical)
+
+## GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fidelhadrian&theme=radical)
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhazzami)
+
+
