@@ -12,9 +12,6 @@ Sometime i code, sometime catching pokemon on the road
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelhadrian&layout=compact&theme=radical)
 
-## Coding Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fidelhadriane&theme=radical)
 
 ## GitHub Stats
 
