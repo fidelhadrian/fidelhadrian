@@ -1,5 +1,5 @@
 # Hello, I'm Fidel! 👋
-
+![](https://komarev.com/ghpvc/?username=aditakbars)
 ## About Me
 
 Sometime i code, sometime catching pokemon on the road
@@ -21,8 +21,6 @@ Sometime i code, sometime catching pokemon on the road
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fidelhadrian&theme=radical)
-
-
 
 ## Let's Connect
 
