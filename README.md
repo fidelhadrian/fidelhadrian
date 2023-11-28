@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=aditakbars)
 ## About Me
 
-Sometime i code, sometime catching pokemon on the road
+still learning always learning
 
 ## GitHub Trophies
 
