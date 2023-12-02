@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=4000&pause=1000&random=false&width=435&lines=Halo+!;I+am+Fadhil+Hadrian;Computer+Engineering+Student+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=5000&pause=2000&random=false&width=435&lines=Halo+!;I+am+Fadhil+Hadrian;Computer+Engineering+Student+)](https://git.io/typing-svg)
 
 ## Let's Connect
 ![](https://komarev.com/ghpvc/?username=fidelhadrian)
