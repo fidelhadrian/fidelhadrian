@@ -4,23 +4,11 @@
 
 still learning always learning
 
-## GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fidelhadrian&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelhadrian&layout=compact&theme=radical)
+![Umbreon Shiny Sticker](https://tenor.com/view/umbreon-shiny-pokemon-gif-26941062)
 
 
-## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelhadrian&layout=compact&theme=radical) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fidelhadrian&show_icons=true&hide=contribs,prs&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fidelhadrian&show_icons=true&hide=contribs,prs&theme=radical)
-
-
-## GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fidelhadrian&theme=radical)
 
 ## Let's Connect
 
